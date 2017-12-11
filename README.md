@@ -19,5 +19,3 @@ You can then look at the files created, there are three files
 (If you want debug info, then you will need to enable this within OMi)
 
 The enviroment was OMi10.6 / RHEL 6.5
-
-Copy the perl code into notepad++ make sure you dont have hidden characters, save as a perl script and run it perl <script_name.pl>
